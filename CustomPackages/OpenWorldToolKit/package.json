@@ -1,0 +1,8 @@
+  
+{
+    "name": "com.github.russDevAcc.openworldtoolkit",
+    "description": "provides a set of componentsystems to make the development of open world games much more simple.",
+    "version": "0.0.1",
+    "unity": "2020.2.1",
+    "displayName": "OpenWorldToolkit"
+  }
